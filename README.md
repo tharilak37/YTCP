@@ -4,6 +4,8 @@ Youtube comment profile picture downloader
 For obtaining a JSON file of URLs, you can use Copy all links and image links to CSV or JSON extension from the Google website.
 Get it from here - https://chromewebstore.google.com/detail/copy-all-links-and-image/ccddopnnikeeoogpfbnfommfoeliaidg
 
+Note: I'm planning to develop a tool for this. but no time with my work, so feel free to send some pull requests for the JSON saver option. so you will not have to use this chrome extetntion
+
 Steps!
 
 Go to the video which you need to download commenters' profile pictures.
