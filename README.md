@@ -20,4 +20,4 @@ Now go to yctp.py file and run it.
 
 You will see a zip file as downloaded images. Congrats, you have made it. Now unzip and view your saved profile pictures. you can change the image size from yctp file before downloading (the default is set for 800).
 
-Note: don't use this for harmful purposes. make sure you ensure the privacy of commenters. This tool if for **educational and research process only**
+Note: don't use this for harmful purposes. make sure you ensure the privacy of commenters. This tool is for **educational and research process only**
